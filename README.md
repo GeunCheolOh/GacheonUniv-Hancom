@@ -1,6 +1,6 @@
 # 한컴이노스트림 첨단 인재 양성 부트캠프 교안
 
-아래처럼 보기 좋게 **마크다운 형식**으로 정리해봤어요 👇
+[노션페이지 링크](https://observant-fang-c48.notion.site/3-21-3299f3df6c698093853dfa661f8ddffb?source=copy_link)
 
 ---
 
