@@ -1,6 +1,6 @@
 # 한컴이노스트림 첨단 인재 양성 부트캠프 교안
 
-[노션페이지 링크](https://observant-fang-c48.notion.site/3-21-3299f3df6c698093853dfa661f8ddffb?source=copy_link)
+[노션페이지 링크](https://observant-fang-c48.notion.site/3299f3df6c6980f4b0d1ca8f022c9bab?v=3299f3df6c698075a379000c3ec45c40&source=copy_link)
 
 ---
 
